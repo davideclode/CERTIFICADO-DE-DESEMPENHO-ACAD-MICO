@@ -1,5 +1,5 @@
-# CERTIFICADO DE DESEMPENHO ACADÉMICO
-## ACADEMIC PERFORMANCE CERTIFICATE
+# CERTIFICADO DE DESEMPENHO ACADÉMICO <br>
+#### ACADEMIC PERFORMANCE CERTIFICATE
 
 **Português:**<br>
 Para obter o certificado, o aluno deve atender aos seguintes requisitos:<br>
