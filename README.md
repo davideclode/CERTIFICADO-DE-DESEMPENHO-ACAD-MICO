@@ -6,7 +6,7 @@ II – estar matriculado em disciplinas cuja carga horária total seja superior 
 III – não ter sofrido sanção disciplinar nos dois últimos semestres.<br>
 
 
-# ACADEMIC PERFORMANCE CERTIFICATE
+### ACADEMIC PERFORMANCE CERTIFICATE
 **English:**<br>
 To obtain the certificate, the student must meet the following requirements:<br>
 I – obtain an PI (Performance Index) equal to or greater than 9.00 in the semester in question, excluding subjects validated in the semester; <br>
