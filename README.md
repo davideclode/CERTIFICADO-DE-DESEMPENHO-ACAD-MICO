@@ -1,11 +1,11 @@
 # CERTIFICADO-DE-DESEMPENHO-ACAD-MICO
 CERTIFICADO DE DESEMPENHO ACADÊMICO
 
-Português:
-Para obter o certificado, o aluno deve atender aos seguintes requisitos:
-I – obter no semestre em questão IA (índice de aproveitamento) igual ou superior a 9,00, excluindo-se as disciplinas validadas no semestre;
-II – estar matriculado em disciplinas cuja carga horária total seja superior à carga horária mínima semestral do curso;
-III – não ter sofrido sanção disciplinar nos dois últimos semestres.
+Português:<br>
+Para obter o certificado, o aluno deve atender aos seguintes requisitos:<br>
+I – obter no semestre em questão IA (índice de aproveitamento) igual ou superior a 9,00, excluindo-se as disciplinas validadas no semestre;<br>
+II – estar matriculado em disciplinas cuja carga horária total seja superior à carga horária mínima semestral do curso;<br>
+III – não ter sofrido sanção disciplinar nos dois últimos semestres.<br>
 
 English:<br>
 To obtain the certificate, the student must meet the following requirements:<br>
