@@ -1,5 +1,4 @@
 # CERTIFICADO DE DESEMPENHO ACADÉMICO
-**CERTIFICADO DE DESEMPENHO ACADÊMICO**
 
 **Português:**<br>
 Para obter o certificado, o aluno deve atender aos seguintes requisitos:<br>
